@@ -9,8 +9,12 @@ Developed an end-to-end machine learning pipeline to rigorously test the viabili
 Given the recent surge in new business ventures and the historically high failure rate of startups, entrepreneurs lack reliable, data-driven tools to assess their potential for success. This project was motivated by the need to move beyond anecdotal evidence and create a model that could identify the key drivers of success, providing actionable insights to founders in the critical early stages of their companies.
 
 ---
+
 - **Source Code for Backend/Frontend**: [Github Repo Link](https://github.com/shirinadan/AI4ALL-Project)
-- **Presentation**: [PDF](ai4all-of.github.io/BizLens_%20Startup%20Success%20Evaluator.pdf)
+- **Presentation**: [BizLens_Startup_Success_Evaluator.pdf](https://shirinadan.github.io/ai4all-of.github.io/BizLens_Startup_Success_Evaluator.pdf)
+
+---
+
 ## Key Results
 
 - **Initial Data Validation Failure**  
