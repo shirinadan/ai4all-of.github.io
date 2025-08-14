@@ -10,7 +10,7 @@ Given the recent surge in new business ventures and the historically high failur
 
 ---
 - **Source Code for Backend/Frontend**: [Github Repo Link](https://github.com/shirinadan/AI4ALL-Project)
-- **Presentation**: [PDF Form]([Presentation](ai4all-of.github.io/BizLens_%20Startup%20Success%20Evaluator.pdf)
+- **Presentation**: [PDF](ai4all-of.github.io/BizLens_%20Startup%20Success%20Evaluator.pdf)
 ## Key Results
 
 - **Initial Data Validation Failure**  
