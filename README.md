@@ -1,4 +1,4 @@
-# Predictive Modeling of Startup Success
+# BizLens: Startup Success Evaluator
 
 Developed an end-to-end machine learning pipeline to rigorously test the viability of predicting startup success from a public dataset. This project involved advanced data cleansing, feature engineering, and the systematic evaluation of a Random Forest regression model using Python and Scikit-learn, all within AI4ALL's cutting-edge **AI4ALL Ignite** accelerator. Our primary finding was a critical analysis of the dataset's integrity, demonstrating a mature, scientific approach to data validation.
 
@@ -10,6 +10,7 @@ Given the recent surge in new business ventures and the historically high failur
 
 ---
 - **Source Code for Backend/Frontend**: [Github Repo Link](https://github.com/shirinadan/AI4ALL-Project)
+- **Presentation**: [PDF Form]([Presentation](ai4all-of.github.io/BizLens_%20Startup%20Success%20Evaluator.pdf)
 ## Key Results
 
 - **Initial Data Validation Failure**  
@@ -61,8 +62,8 @@ Given the recent surge in new business ventures and the historically high failur
 
 This project was completed in collaboration with:
 
-- Ebyan Jama
-- Elisa Yu
-- Sarah Toussaint  
-- **Shirina Shaji Daniel**
-- Victor Olivo
+- Ebyan Jama: University of Minnesota
+- Elisa Yu: Tufts University
+- Sarah Toussaint: New York University
+- **Shirina Daniel**: Florida International University
+- Victor Olivo: Rutgers University
