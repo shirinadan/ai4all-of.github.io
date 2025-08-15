@@ -1,3 +1,5 @@
+![BizLens Logo](https://raw.githubusercontent.com/shirinadan/ai4all-of.github.io/main/logo.png)
+
 # BizLens: Startup Success Evaluator
 
 Developed an end-to-end machine learning pipeline to rigorously test the viability of predicting startup success from a public dataset. This project involved advanced data cleansing, feature engineering, and the systematic evaluation of a Random Forest regression model using Python and Scikit-learn, all within AI4ALL's cutting-edge **AI4ALL Ignite** accelerator. Our primary finding was a critical analysis of the dataset's integrity, demonstrating a mature, scientific approach to data validation.
